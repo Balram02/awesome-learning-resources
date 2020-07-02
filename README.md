@@ -1,6 +1,10 @@
-# Awesome Resources RoadMap
+# Awesome Resources RoadMap 
+
+> [Preview on the web](https://nicedoc.io/lauragift21/awesome-learning-resources)
+
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lauragift21/awesome-learning-resources) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 
 ## Table of Contents
 
@@ -25,6 +29,7 @@
 - [Hugo](#hugo)
 - [InfoSec](#infosec)
 - [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [Machine Learning](#machine-learning)
 - [Markdown](#markdown)
 - [NodeJS](#nodejs)
@@ -34,17 +39,20 @@
 - [PWA](#pwa)
 - [Python](#python)
 - [ReactJS](#reactjs)
+- [React Native](#react-native)
 - [Ruby](#ruby)
+- [Ruby on Rails](#ruby-on-rails)
 - [Rust](#rust)
 - [Serverless](#serverless)
 - [Sick Picks](#sick-picks)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [Typescript](#typescript)
 - [Twilio](#twilio)
 - [Voice](#voice)
 - [Vue](#vue)
 - [Women in Tech](#women-in-tech)
-- [TensorFlow] (#TensorFlow)
+- [TensorFlow](#TensorFlow)
 
 ## Agile
 
@@ -52,8 +60,10 @@
 - [Martin Fowler's website](https://martinfowler.com/)
 - [Understanding the Agile methodology](https://linchpinseo.com/the-agile-method/)
 - [Agile ceremonies](https://www.atlassian.com/agile/scrum/ceremonies)
+- [Agile user stories](https://zepel.io/agile/user-stories/)
 
 ## Android
+
 - [What is Android](https://www.android.com/what-is-android/)
 - [Android 10](https://www.android.com/android-10/)
 - [Android Open Source Project](https://source.android.com/)
@@ -97,13 +107,15 @@
 - [Tutorials Point](https://www.tutorialspoint.com/bootstrap/index.htm)
 - [Bootstrap Tutorial Series](https://github.com/SonarSystems/Bootstrap-4-Tutorial-Series)
 - [Hackr.io](https://hackr.io/tutorials/learn-bootstrap)
+- [Tabler](https://preview.tabler.io)
 
-## C#
+## C
 
 - [Channel9](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
 - [Eduonix](https://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
 - [Tutorials Point](https://www.tutorialspoint.com/csharp)
 - [Zetcode](http://zetcode.com/lang/csharp/)
+- [Tim Corey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw)
 
 ## CSS
 
@@ -130,13 +142,14 @@
 - [CSS Testing - QuirksMode.org](https://www.quirksmode.org/css/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Diner](https://flukeout.github.io/)
-
+- [Pure CSS Loaders](https://loading.io/css/)
 
 ## Computer Vision
 
 - [Udacity Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 - [A Gentle Introduction to Computer Vision](https://machinelearningmastery.com/what-is-computer-vision/)
 - [Coursera Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics)
+- [PyImageSearch Blog](https://www.pyimagesearch.com/)
 
 ## Data Science
 
@@ -147,6 +160,7 @@
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/01/learning-path-data-scientist-machine-learning-2019/)
 - [Alison](https://alison.com/courses/data-science)
 - [Automate the boring stuff with Python](https://automatetheboringstuff.com)
+
 ## Deep Learning
 
 - [Deep Learning Specialization (instructor : Andrew Ng) on Coursera](https://www.coursera.org/specializations/deep-learning)
@@ -178,6 +192,8 @@
 - [Zell's Blog](https://zellwk.com/blog)
 - [Dan Abramov Blog](https://overreacted.io/)
 - [Web Development Reading List](https://wdrl.info)
+- [Developer Roadmap](https://roadmap.sh)
+- [CodeWall](https://codewall.co.uk)
 
 ## Developer Stories
 
@@ -189,11 +205,13 @@
 ## Django
 
 - [Django Girls](https://tutorial.djangogirls.org/)
-- [Official Django Tutorials](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
+- [Official Django Tutorials](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
 - [Classy Class-Based Views](https://ccbv.co.uk/)
 - [How To Tango With Django 1.7](https://www.tangowithdjango.com/book17/)
 
 ## Flutter
+
+- [Introduction to Flutter Development Using Dart](https://www.appbrewery.co/p/intro-to-flutter)
 - [Flutter Course - Full Tutorial for Beginners](https://www.youtube.com/watch?v=pTJJsmejUOQ)
 - [Flutter: Learning Resources for Beginners](https://dev.to/nitya/flutter-learning-resources-for-beginners-5719)
 - [Flutter Tutorial by The Net Ninja](https://www.youtube.com/watch?v=1ukSR1GRtMU)
@@ -201,6 +219,7 @@
 - [Example Flutter UI](https://fluttersourcecode.com/)
 
 ## Flask
+
 - [Flask Official Documentation](https://flask.palletsprojects.com/en/1.1.x/)
 - [Flask Tutorial](https://www.tutorialspoint.com/flask/index.htm)
 - [Python Flask Tutorials](https://coreyms.com/development/python/python-flask-tutorials-full-series)
@@ -218,6 +237,7 @@
 ## Golang
 
 - [A Tour of Go](https://tour.golang.org/welcome/1)
+- [Go by Example](https://gobyexample.com/)
 - [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
 - [Go Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
 - [Go for Javascript Developers](https://www.pazams.com/Go-for-Javascript-Developers/)
@@ -236,6 +256,7 @@
 - [GraphQL with React Tutorial](https://www.thenetninja.co.uk/courses/graphql-node-react-tutorial)
 
 ## Hugo
+
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 
 ## InfoSec
@@ -243,10 +264,13 @@
 - [awesome-infosec](https://github.com/onlurking/awesome-infosec)
 - [SecLists](https://github.com/danielmiessler/SecLists)
 - [OWASP Top 10](https://www.owasp.org/index.php/Top_10-2017_Top_10)
-- [Reverse Engineering 101](https://securedorg.github.io/RE101/)
-- [Reverse Engineering 102](https://securedorg.github.io/RE102/)
+- [Beggining with Reverse Engineering](https://beginners.re/)
+- [CTF field guide](https://trailofbits.github.io/ctf/)
+- [Metasploit unleashed](https://www.offensive-security.com/metasploit-unleashed/)
+- [Infosec Institute](https://resources.infosecinstitute.com/)
 
 ## Ionic
+
 - [Ionic Tutorials & Courses](https://hackr.io/tutorials/learn-ionic)
 - [Learn Ionic Fast](https://ionicacademy.com/)
 - [Ionic Tutorial](https://www.tutorialspoint.com/ionic/index.htm)
@@ -254,6 +278,7 @@
 ## JavaScript
 
 - [FreeCodeCamp](https://freecodecamp.com)
+- [The Odin Project](https://www.theodinproject.com/)
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
 - [CodeSchool](https://www.codeschool.com/learn/javascript)
@@ -278,6 +303,18 @@
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 - [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [Mozilla's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [JavaScript for Cats](http://jsforcats.com/)
+- [Beginner JavaScript by Wes Bos](https://beginnerjavascript.com/)
+
+## Kotlin
+
+- [Kotlin Coding Puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
+- [Kotlin by Reddit](https://www.reddit.com/r/Kotlin/)
+- [Kotlin Academy](https://blog.kotlin-academy.com/)
+- [Kotlin by Hackr.io](https://hackr.io/tutorials/learn-kotlin)
+- [Kotlin for Android](http://antonioleiva.com/kotlin/)
+- [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
 
 ## Machine Learning
 
@@ -293,6 +330,8 @@
 
 - [Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code](https://www.amazon.com/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033)
 - [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=pd_sbs_14_t_0/136-7474712-7650215?_encoding=UTF8&pd_rd_i=1593272901&pd_rd_r=f8f8d7e2-f2b5-4ac7-91ce-e0355affe59a&pd_rd_w=a0873&pd_rd_wg=u2f3a&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=6Q3PYAT9CC9304D9BFY4&psc=1&refRID=6Q3PYAT9CC9304D9BFY4)
+- [Exploit writing Tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
+- [Shell code database](http://shell-storm.org/shellcode/)
 
 ## Markdown
 
@@ -332,6 +371,7 @@
 - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/)
 - [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)
 - [Awesome Node.JS (A-Z) Youtube Lecture](https://www.youtube.com/watch?v=rSHL_lYY_Xc&list=PLatXnLy-YGQexU9sktggQbw7tq815yGbR)
+- [Nodejs.dev](https://nodejs.dev)
 
 ## PHP
 
@@ -340,6 +380,7 @@
 - [In site learn](https://www.learn-php.org/)
 - [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
 - [Laravel framework](https://laravel.com)
+- [Laracasts](https://laracasts.com/)
 - [PHP Tutorial](https://www.tutorialspoint.com/php/index.htm)
 
 ## PLSQL
@@ -374,7 +415,9 @@
 - [Shop talk show](https://shoptalkshow.com)
 - [Hanselminutes](https://www.hanselminutes.com/)- Fresh Tech Talk from Fresh Faces
 - [This Week In Tech](https://twit.tv/shows/this-week-in-tech)
-
+- [JS Party](https://changelog.com/jsparty)
+- [My Life As A Software Engineer](https://anchor.fm/mylifeasasoftwareengineer/)
+- [The Cynical Developer](https://cynicaldeveloper.com/)
 
 ## PWA
 
@@ -397,10 +440,11 @@
 - [A Byte of Python](https://python.swaroopch.com/)
 - [Learn Python 3 By Code Academy](https://www.codecademy.com/learn/learn-python-3)
 
-
 ## ReactJS
 
 - [React for Beginners by Wes Bos](https://reactforbeginners.com/)
+- [Learn React](https://scrimba.com/course/glearnreact)
+- [The React BootCamp](https://scrimba.com/course/greact)
 - [Fullstack Advanced React and GraphQL by Wes Bos](https://advancedreact.com/)
 - [Alligator.IO React Page](https://alligator.io/react/)
 - [Egghead.io](https://egghead.io/browse/frameworks/react)
@@ -420,12 +464,29 @@
 - [React Enlightenment](https://www.reactenlightenment.com)
 - [React Hooks in Action](https://www.manning.com/books/react-hooks-in-action)
 
+## React Native
+
+- [InstaMobile Blog](https://www.instamobile.io/blog/)
+- [BootDey React Native Snippets](https://www.bootdey.com/react-native-snippets)
+- [Awesome React Native](https://www.awesome-react-native.com/)
+- [UI Libraries](https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312)
+- [The State Of React Native](https://www.youtube.com/watch?v=plTTFqbEiEE)
+
 ## Ruby
 
 - [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
 - [The Ruby Reference](https://rubyreferences.github.io/rubyref/)
 - [Ada Developers Academy Jump Start](https://github.com/Ada-Developers-Academy/jump-start)
 - [App Academy Open](https://open.appacademy.io/)
+
+## Ruby on Rails 
+
+- [Official Rails Website](https://rubyonrails.org/)
+- [David Heinemeier Hansson](https://www.youtube.com/channel/UCUkM9uMpWatT7gVWShgtKFw)
+- [GoRails](https://gorails.com/)
+- [Rails Screen Casts](https://railscasts.com/)
+- [Agile Web Development with Rails 5](https://books.google.co.za/books/about/Agile_Web_Development_with_Rails_5.html?id=ySyjDAEACAAJ&source=kp_book_description&redir_esc=y)
+- [Ruby on Rails Tutorial: Learn Web Development with Rails](https://www.goodreads.com/book/show/13705557-ruby-on-rails-tutorial)
 
 ## Rust
 
@@ -439,11 +500,12 @@
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
 - [A Cloud Guru](https://acloud.guru/courses)
 - [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications)
+- [DynamoDB Book](https://www.dynamodbbook.com/)
+- [The Serverless Handbook](https://serverlesshandbook.dev/)
 
 ## Sick Picks
 
 - [100 Tips to Becoming a better Developer](https://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
-- [Useful Tips for writing better Git commit messages](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503)
 - [Super Cool Illustrations](https://undraw.co/illustrations)
 - [A coder's guide to APIs](https://www.creativebloq.com/features/a-coders-guide-to-apis)
 - [Why Coding Style Matters](https://www.smashingmagazine.com/2012/10/why-coding-style-matters/)
@@ -468,14 +530,25 @@
 - [Refactoring, write awesome code](https://sourcemaking.com/refactoring)
 - [Remove Background from Images](https://www.remove.bg/)
 - [Creative Coding Experiments Blog](https://tympanus.net/codrops/)
+- [CanIUse](https://caniuse.com/)
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Cool Tech Confrence Talks](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
 ## Svelte
+
 - [Svelte and Sapper in Action (Book)](https://www.manning.com/books/svelte-and-sapper-in-action)
 - [The Svelte Handbook (Book)](https://flaviocopes.com/page/ebooks/)
 - [Web Development Simplified with Svelte](https://objectcomputing.com/resources/publications/sett/july-2019-web-dev-simplified-with-svelte)
 - [Rethinking Reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
 - [The Return of 'Write Less, Do More'](https://www.youtube.com/watch?v=BzX4aTRPzno)
 - [Simplify Web App Development with Svelte](https://www.youtube.com/watch?v=PXOE7oZyaBA)
+
+## Swift
+
+- [iOS and Swift for Beginners](https://www.raywenderlich.com/ios/paths/learn)
+- [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+- [Become an iOS Developer](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
+- [How to learn Swift programming for free in 2020](https://www.hackingwithswift.com/articles/2/how-to-learn-swift-programming-for-free)
 
 ## Typescript
 
@@ -486,9 +559,10 @@
 - [Starter Template for Typescript and Node.js](https://github.com/Microsoft/TypeScript-Node-Starter)
 - [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
 - [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
-
+- [Typescript Exercises](https://github.com/mdevils/typescript-exercises)
 
 ## TensorFlow
+
 - [Introduction for TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ## Voice
@@ -521,4 +595,3 @@
 - [Tech Ladies](https://www.hiretechladies.com/)
 - [Women TechMakers](https://www.womentechmakers.com/)
 - [Ladybug Podcast - Women in Tech](https://ladybug.dev/)
-
