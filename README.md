@@ -1,9 +1,12 @@
 # Awesome Resources RoadMap 
 
-> [Preview on the web](https://nicedoc.io/lauragift21/awesome-learning-resources)
-
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lauragift21/awesome-learning-resources) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
+
+“**Awesome Resources RoadMap is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial**”
+
+<a href="https://tracking.gitads.io/?repo=https://github.com/lauragift21/awesome-learning-resources/"> <img src="https://images.gitads.io/lauragift21/awesome-learning-resources/" alt="GitAds"/></a>
+
+[Preview on the web](https://nicedoc.io/lauragift21/awesome-learning-resources)
 
 
 ## Table of Contents
@@ -21,6 +24,7 @@
 - [Developer Blog](#developer-blog)
 - [Developer Stories](#developer-stories)
 - [Django](#django)
+- [Elixir](#elixir)
 - [Flask](#flask)
 - [Flutter](#flutter)
 - [Git and GitHub](#git-and-github)
@@ -208,6 +212,14 @@
 - [Official Django Tutorials](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
 - [Classy Class-Based Views](https://ccbv.co.uk/)
 - [How To Tango With Django 1.7](https://www.tangowithdjango.com/book17/)
+
+## Elixir
+
+- [Elixir School](https://elixirschool.com/)
+- [Learn Elixir in Y minutes](https://learnxinyminutes.com/docs/elixir)
+- [Mocks and Explicit Contracts](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
+- [Elixir Forum](https://elixirforum.com/)
+- [Joy of Elixir](https://joyofelixir.com/toc.html)
 
 ## Flutter
 
